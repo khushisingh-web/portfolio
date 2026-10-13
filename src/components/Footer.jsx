@@ -52,7 +52,7 @@ const Footer = () => {
             </a>
 
             <p className="text-gray-400 mt-3">
-              Frontend Developer
+              Web Developer
             </p>
 
             <p className="text-gray-500 text-sm mt-2 max-w-xs">

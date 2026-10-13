@@ -48,7 +48,7 @@ const Hero = () => {
           </h1>
 
           <h2 className="text-2xl md:text-4xl font-semibold text-gray-200 mb-6">
-            Frontend Developer
+            Web Developer
           </h2>
 
           <p className="text-gray-400 text-base md:text-lg leading-relaxed max-w-xl mb-8">
